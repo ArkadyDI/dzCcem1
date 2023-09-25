@@ -1,0 +1,15 @@
+/Users/mac/Desktop/dzC#cem1/bin/Debug/net6.0/dzC#cem1
+/Users/mac/Desktop/dzC#cem1/bin/Debug/net6.0/dzC#cem1.deps.json
+/Users/mac/Desktop/dzC#cem1/bin/Debug/net6.0/dzC#cem1.runtimeconfig.json
+/Users/mac/Desktop/dzC#cem1/bin/Debug/net6.0/dzC#cem1.dll
+/Users/mac/Desktop/dzC#cem1/bin/Debug/net6.0/dzC#cem1.pdb
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.AssemblyInfo.cs
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.dll
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/refint/dzC#cem1.dll
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.pdb
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/dzC#cem1.genruntimeconfig.cache
+/Users/mac/Desktop/dzC#cem1/obj/Debug/net6.0/ref/dzC#cem1.dll
